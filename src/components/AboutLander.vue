@@ -9,12 +9,15 @@
                 About us here in Digital marketing institute
               </h3>
               <p class="p-caption">
-                with over different Professional courses<br />
-                on the best careers & fields
+                Learn How To Make Money Online Using Our Proven 3-Step Digital
+                Marketing System To Build The Business, The Career And The Life
+                You Desire.
+              </p>
+              <p class="p-caption">
+                Trusted by Over 115,384+ People Globally from Companies
               </p>
             </div>
           </div>
-          <div class="col-md-4"></div>
         </div>
       </div>
     </div>
@@ -29,9 +32,9 @@ export default {
 
 <style scoped>
 .about-lander-section {
-  height: 30vh;
+  height: 40vh;
   width: 100%;
-  background-color: #c7e4f7;
+  background-color: #dff0fc;
 }
 .about-hero-caption {
   padding-top: 45px;
@@ -39,7 +42,7 @@ export default {
 .h3-caption {
   font-size: 40px;
   color: #2578e4;
-  font-weight: 900;
+  font-weight: 600;
   text-transform: uppercase;
   font-family: "Oswald", sans-serif;
 }
@@ -47,7 +50,23 @@ export default {
   padding-top: 20px;
   color: #25528b;
   font-size: 20px;
+  font-weight: 300;
   text-transform: uppercase;
   font-family: "roboto", sans-serif;
+}
+
+@media only screen and (max-width: 900px) {
+  .about-lander-section {
+    padding: 10px 0;
+    background-color: rgb(188, 226, 252);
+    height: auto;
+  }
+  .h3-caption {
+    font-size: 35px;
+    color: #2578e4;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-family: "Oswald", sans-serif;
+  }
 }
 </style>

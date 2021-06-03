@@ -75,7 +75,7 @@ export default {
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans&family=Oswald&family=Raleway&family=Roboto&display=swap");
 .lander-hero-section {
-  background-color: rgb(199, 228, 247);
+  background-color: #c7e4f7;
   width: 100%;
   height: 45vh;
 }
@@ -85,7 +85,7 @@ export default {
 .h3-caption {
   font-size: 40px;
   color: #2578e4;
-  font-weight: 900;
+  font-weight: 600;
   text-transform: uppercase;
   font-family: "Oswald", sans-serif;
   text-decoration: underline 7px #2578e4;
