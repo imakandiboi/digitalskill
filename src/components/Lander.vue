@@ -9,8 +9,8 @@
                 get the best on Digital Marketing course
               </h3>
               <p class="p-caption">
-                with over different Professional courses on the best careers &
-                fields
+                with over different Professional courses<br />
+                on the best careers & fields
               </p>
               <div class="gap-2">
                 <button class="btn btn-outline-primary" type="button">
@@ -35,8 +35,40 @@
 </template>
 
 <script>
+import { gsap } from "gsap";
+
 export default {
   name: "Lander",
+  mounted: function () {
+    gsap.from(".h3-caption", {
+      x: -70,
+      ease: "bounce",
+      duration: 2,
+    });
+    gsap.from(".p-caption", {
+      x: -70,
+      ease: "bounce",
+      duration: 2,
+    });
+
+    gsap.from(".btn-outline-primary", {
+      y: 20,
+      ease: "ease-in",
+      duration: 3,
+    });
+
+    gsap.from(".image", {
+      y: -70,
+      ease: "bounce",
+      duration: 3,
+    });
+    gsap.from(".hero-image", {
+      x: 90,
+      ease: "bounce",
+      duration: 2,
+      repeat: 0,
+    });
+  },
 };
 </script>
 

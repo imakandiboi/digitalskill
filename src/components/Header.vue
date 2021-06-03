@@ -2,14 +2,16 @@
   <div>
     <nav class="navbar navbar-expand-lg sticky-top navbar-light bg-light">
       <div class="container-fluid nav-container">
-        <a class="navbar-brand" href="#">
-          <img
-            src="@/assets/image/nav-image.png"
-            width="200"
-            height="48"
-            alt=""
-          />
-        </a>
+        <router-link :to="{ name: 'index' }">
+          <a class="navbar-brand" href="#">
+            <img
+              src="@/assets/image/nav-image.png"
+              width="200"
+              height="48"
+              alt=""
+            />
+          </a>
+        </router-link>
         <button
           class="navbar-toggler"
           type="button"
@@ -23,7 +25,9 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav d-flex justify-content-center">
-            <a class="nav-link" aria-current="page" href="#">About us</a>
+            <router-link :to="{ path: '/About' }">
+              <a class="nav-link" href="#">About us</a>
+            </router-link>
             <a class="nav-link" href="#">Courses</a>
             <a class="nav-link" href="#">Pricing</a>
           </div>
@@ -77,7 +81,6 @@ export default {
 .nav-link {
   color: #2578e4 !important;
   font-weight: 600;
-
   font-size: 15px;
 }
 .top-svg {

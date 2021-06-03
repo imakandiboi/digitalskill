@@ -53,7 +53,7 @@
               <div class="flex-col">
                 <i class="fas fa-chart-line"></i>
                 <h3>
-                  Start and grow your digital marketing agency or a freelance
+                  Start & grow a digital marketing agency or a freelance
                   business.
                 </h3>
                 <p>
@@ -200,7 +200,7 @@ export default {
 .course h1 {
   padding: 50px 0px 30px 0;
   text-align: center;
-  font-weight: 600;
+  font-weight: 400;
   font-family: "Raleway", sans-serif;
 }
 .course p {
@@ -219,8 +219,9 @@ export default {
 .card-section h3 {
   font-family: "Lato", sans-serif;
   font-size: 1.5rem;
-  font-weight: 900;
+  font-weight: 400;
   padding: 20px 0;
+  text-transform: capitalize;
 }
 .card-section {
   padding: 40px 10px;
