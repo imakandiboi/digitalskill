@@ -74,6 +74,7 @@ export default {
 .navbar-nav {
   justify-content: center;
   position: sticky !important;
+  text-decoration: none;
 
   padding: 0px 20px;
   gap: 1rem;
@@ -81,7 +82,11 @@ export default {
 .nav-link {
   color: #2578e4 !important;
   font-weight: 600;
+  text-decoration: none;
   font-size: 15px;
+}
+.nav-link a {
+  text-decoration: none;
 }
 .top-svg {
   display: block;

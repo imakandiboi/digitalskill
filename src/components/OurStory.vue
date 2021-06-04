@@ -26,7 +26,176 @@
 
       <div class="container testimonies">
         <h2>our outstanding testimonies</h2>
-        <p></p>
+        <div class="row testimony">
+          <div class="col-md-4">
+            <div class="flex-col">
+              <div class="testimony-cards">
+                <div class="image">
+                  <img src="@/assets/image/office-man.jpeg" alt="" />
+                </div>
+                <div class="caption text-center">
+                  <h3>John doe</h3>
+                  <p class="text-center">
+                    "one of our finestest students John has excelled
+                    trmendiously after taking strategic courses and guideline
+                    proen to ''
+                  </p>
+                  <div class="icon">
+                    <div class="row">
+                      <div class="col d-flex justify-content-around">
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="flex-col">
+              <div class="testimony-cards">
+                <div class="image">
+                  <img src="@/assets/image/office-man.jpeg" alt="" />
+                </div>
+                <div class="caption text-center">
+                  <h3>John doe</h3>
+                  <p class="text-center">
+                    "one of our finestest students John has excelled
+                    trmendiously after taking strategic courses and guideline
+                    proen to ''
+                  </p>
+                  <div class="icon">
+                    <div class="row">
+                      <div class="col d-flex justify-content-around">
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="flex-col">
+              <div class="testimony-cards">
+                <div class="image">
+                  <img src="@/assets/image/office-man.jpeg" alt="" />
+                </div>
+                <div class="caption text-center">
+                  <h3>John doe</h3>
+                  <p class="text-center">
+                    "one of our finestest students John has excelled
+                    trmendiously after taking strategic courses and guideline
+                    proen to ''
+                  </p>
+                  <div class="icon">
+                    <div class="row">
+                      <div class="col d-flex justify-content-around">
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="flex-col">
+              <div class="testimony-cards">
+                <div class="image">
+                  <img src="@/assets/image/office-man.jpeg" alt="" />
+                </div>
+                <div class="caption text-center">
+                  <h3>John doe</h3>
+                  <p class="text-center">
+                    "one of our finestest students John has excelled
+                    trmendiously after taking strategic courses and guideline
+                    proen to ''
+                  </p>
+                  <div class="icon">
+                    <div class="row">
+                      <div class="col d-flex justify-content-around">
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="flex-col">
+              <div class="testimony-cards">
+                <div class="image">
+                  <img src="@/assets/image/office-man.jpeg" alt="" />
+                </div>
+                <div class="caption text-center">
+                  <h3>John doe</h3>
+                  <p class="text-center">
+                    "one of our finestest students John has excelled
+                    trmendiously after taking strategic courses and guideline
+                    proen to ''
+                  </p>
+                  <div class="icon">
+                    <div class="row">
+                      <div class="col d-flex justify-content-around">
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="flex-col">
+              <div class="testimony-cards">
+                <div class="image">
+                  <img src="@/assets/image/office-man.jpeg" alt="" />
+                </div>
+                <div class="caption text-center">
+                  <h3>John doe</h3>
+                  <p class="text-center">
+                    "one of our finestest students John has excelled
+                    trmendiously after taking strategic courses and guideline
+                    proen to ''
+                  </p>
+                  <div class="icon">
+                    <div class="row">
+                      <div class="col d-flex justify-content-around">
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                        <i class="far fa-star"></i>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -42,7 +211,7 @@ export default {
 @import url("https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans&family=Oswald&family=Raleway&family=Roboto&display=swap");
 
 .our-story-section {
-  height: 100vh;
+  height: auto;
   padding: 0px;
   background-color: #f1eeee;
 }
@@ -74,7 +243,28 @@ export default {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
 }
-
+.testimony {
+  padding-top: 20px;
+  margin: 0px 10px;
+  padding-bottom: 40px;
+}
+.testimony-cards img {
+  width: 90%;
+  border-radius: 50%;
+  height: 350px;
+}
+.caption {
+  padding: 20px 0px;
+}
+.caption h3 {
+  font-family: "Raleway", sans-serif;
+}
+.caption p {
+  font-family: "Raleway", sans-serif;
+}
+.icon {
+  padding-top: 20px;
+}
 @media only screen and (max-width: 900px) {
   .our-story-section {
     height: auto;
