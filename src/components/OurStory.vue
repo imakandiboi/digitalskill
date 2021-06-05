@@ -31,18 +31,21 @@
             <div class="flex-col">
               <div class="testimony-cards">
                 <div class="image">
-                  <img src="@/assets/image/office-man.jpeg" alt="" />
+                  <img src="@/assets/image/man5.jpeg" alt="" />
                 </div>
                 <div class="caption text-center">
-                  <h3>John doe</h3>
+                  <h3>Anthony Stark</h3>
                   <p class="text-center">
-                    "one of our finestest students John has excelled
-                    trmendiously after taking strategic courses and guideline
-                    proen to ''
+                    DMSI is the top digital marketing school. Not only are the
+                    classes organised and easy to follow, the platform is
+                    user-friendly.But DMSI didn't stop there...They organise
+                    daily Q&amp;A sessions where students can go to ask
+                    questions about their areas of confusion and receive answers
+                    in real-time.
                   </p>
                   <div class="icon">
                     <div class="row">
-                      <div class="col d-flex justify-content-around">
+                      <div class="col d-flex justify-content-center">
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
@@ -62,15 +65,18 @@
                   <img src="@/assets/image/office-man.jpeg" alt="" />
                 </div>
                 <div class="caption text-center">
-                  <h3>John doe</h3>
+                  <h3>Godwin Akhuighu</h3>
                   <p class="text-center">
-                    "one of our finestest students John has excelled
-                    trmendiously after taking strategic courses and guideline
-                    proen to ''
+                    It has been a 7 weeks long of standard learning process for
+                    me.Although I wasn't so sure of what to expect in the
+                    beginning of my training, plus this being my first time in
+                    attending a virtual class, I must say the online coaches
+                    were really really professional in their teaching methods.
+                    Thanks.
                   </p>
                   <div class="icon">
                     <div class="row">
-                      <div class="col d-flex justify-content-around">
+                      <div class="col d-flex justify-content-center">
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
@@ -87,18 +93,19 @@
             <div class="flex-col">
               <div class="testimony-cards">
                 <div class="image">
-                  <img src="@/assets/image/office-man.jpeg" alt="" />
+                  <img src="@/assets/image/lady.jpeg" alt="" />
                 </div>
                 <div class="caption text-center">
-                  <h3>John doe</h3>
+                  <h3>Kate Badero</h3>
                   <p class="text-center">
-                    "one of our finestest students John has excelled
-                    trmendiously after taking strategic courses and guideline
-                    proen to ''
+                    DMSI is the best place to learn digital marketing from. All
+                    the coaches are always ready to help when you need them.
+                    <br />The platform is user friendly and regularly updated. I
+                    want to say a big <br />thank you.
                   </p>
                   <div class="icon">
                     <div class="row">
-                      <div class="col d-flex justify-content-around">
+                      <div class="col d-flex justify-content-center">
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
@@ -115,18 +122,21 @@
             <div class="flex-col">
               <div class="testimony-cards">
                 <div class="image">
-                  <img src="@/assets/image/office-man.jpeg" alt="" />
+                  <img src="@/assets/image/man3.jpeg" alt="" />
                 </div>
                 <div class="caption text-center">
-                  <h3>John doe</h3>
+                  <h3>Benjamin Y.</h3>
                   <p class="text-center">
-                    "one of our finestest students John has excelled
-                    trmendiously after taking strategic courses and guideline
-                    proen to ''
+                    I looked around for a training institution in Lagos that
+                    could accommodate my available timing and was happy to learn
+                    that DMSI provided online classes. My journey through DMSI
+                    has been great and I am proud of the knowledge gained over
+                    couple of months. I recommend DMIS to working professionals,
+                    as you can study flexibly at your own convenience.
                   </p>
                   <div class="icon">
                     <div class="row">
-                      <div class="col d-flex justify-content-around">
+                      <div class="col d-flex justify-content-center">
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
@@ -143,18 +153,21 @@
             <div class="flex-col">
               <div class="testimony-cards">
                 <div class="image">
-                  <img src="@/assets/image/office-man.jpeg" alt="" />
+                  <img src="@/assets/image/lady3.jpeg" alt="" />
                 </div>
                 <div class="caption text-center">
-                  <h3>John doe</h3>
+                  <h3>Blaiçe Eyaks</h3>
                   <p class="text-center">
-                    "one of our finestest students John has excelled
-                    trmendiously after taking strategic courses and guideline
-                    proen to ''
+                    Sincerely, words, texts, etc would fail me. Lets just say
+                    they've got everything and more of whatever you need in
+                    digital marketing... With a zero knowledge in digital
+                    marketing, DMSI promises to make a guru out of you, if only
+                    you apply what you're taught. With DMSI, you're in the right
+                    place.
                   </p>
                   <div class="icon">
                     <div class="row">
-                      <div class="col d-flex justify-content-around">
+                      <div class="col d-flex justify-content-center">
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
@@ -171,18 +184,21 @@
             <div class="flex-col">
               <div class="testimony-cards">
                 <div class="image">
-                  <img src="@/assets/image/office-man.jpeg" alt="" />
+                  <img src="@/assets/image/man.jpeg" alt="" />
                 </div>
                 <div class="caption text-center">
-                  <h3>John doe</h3>
+                  <h3>Ibrahim Damilare</h3>
                   <p class="text-center">
-                    "one of our finestest students John has excelled
-                    trmendiously after taking strategic courses and guideline
-                    proen to ''
+                    DMSI is an institute to go. I don't know anything about
+                    digital marketing before I joined but after taking the
+                    course am confident to practice digital marketing and my
+                    business has grown beyond my imagination. I run Advert for
+                    my business and others. This has taken my business to the
+                    whole wide world.
                   </p>
                   <div class="icon">
                     <div class="row">
-                      <div class="col d-flex justify-content-around">
+                      <div class="col d-flex justify-content-center">
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
                         <i class="far fa-star"></i>
@@ -252,6 +268,7 @@ export default {
   width: 90%;
   border-radius: 50%;
   height: 350px;
+  text-align: center;
 }
 .caption {
   padding: 20px 0px;
@@ -264,6 +281,9 @@ export default {
 }
 .icon {
   padding-top: 20px;
+}
+i {
+  color: gold;
 }
 @media only screen and (max-width: 900px) {
   .our-story-section {
