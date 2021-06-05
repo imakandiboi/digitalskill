@@ -290,5 +290,11 @@ i {
     height: auto;
     background-color: #f1eeee;
   }
+  .testimony-cards img {
+    width: 100%;
+    border-radius: 50%;
+    height: 100%;
+    text-align: center;
+  }
 }
 </style>
