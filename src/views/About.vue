@@ -15,6 +15,25 @@ export default {
     AboutLander,
     OurStory,
   },
+  data: () => ({
+    loading: false,
+  }),
+  mounted() {
+    this.loading = true;
+  },
+  // methods: {
+  //   loading() {
+  //     this.loading = false;
+  //   },
+  // },
+  watch: {
+    loading: function () {
+      let as = this;
+      setTimeout(function () {
+        as.loading = !as.loading;
+      }, 3000);
+    },
+  },
 };
 </script>
 

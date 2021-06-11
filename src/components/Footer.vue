@@ -208,5 +208,10 @@ p .location {
     background-color: rgb(58, 117, 206);
     height: auto;
   }
+
+  .icon-wrap {
+    display: inline-block;
+    gap: 1.5rem;
+  }
 }
 </style>
